@@ -1,6 +1,6 @@
 {
   "name": "vue-loger",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Vue plugin for console.log",
   "main": "index.js",
   "scripts": {
